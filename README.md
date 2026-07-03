@@ -39,3 +39,6 @@ Do NOT click links or provide credentials.
 ## Author
 
 Lydia Lino John
+## Project Demonstration
+
+![PhishGuard Output](phishguard_output.png)
